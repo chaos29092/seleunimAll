@@ -1,4 +1,4 @@
-# 从adwords获取谷歌搜索量和点击费用
+# 从adwords获取谷歌搜索量和点击费用，谷歌老封，失败
 
 from selenium import webdriver
 import time

@@ -1,3 +1,4 @@
+#对mongodb的一些操作，例如回复状态，转移记录
 from pymongo import MongoClient
 
 client = MongoClient()
